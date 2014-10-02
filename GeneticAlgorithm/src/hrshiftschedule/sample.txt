@@ -1,0 +1,28 @@
+2-3-3 example:
+
+Find optimal solution: 
+
+DAY:123456012345601234560123456012345601234560123456012345601234560
+----------+------+------+------+------+------+------+------+------+
+T1: 0000ddddd000nnnnn000nnnnn00ddddd00ddddd0000ddddd00ddddd000nnnnn
+T2: 0000nnnnn000ddddd000ddddd00nnnnn00nnnnn0000nnnnn00nnnnn000ddddd
+T3: ddddd00ddddd000ddddd00nnnnn000ddddd0000ddddd0000nnnnn00ddddd000
+T4: nnnnn00nnnnn000nnnnn00ddddd000nnnnn0000nnnnn0000ddddd00nnnnn000
+Fitness: -363.0
+  M: 100000
+  time eclipsed: 4342634 ms
+
+1-5-2 example:
+
+Find optimal solution: 
+
+DAY:123456012345601234560123456012345601234560123456012345601234560
+----------+------+------+------+------+------+------+------+------+
+T1: 0000ddddd000nnnnn000ddddd00nnnnn00nnnnn00ddddd0000nnnnn000nnnnn
+T2: d00nnnnn0000ddddd000nnnnn00ddddd00ddddd000nnnnn000ddddd0000dddd
+T3: ddddd000ddddd00ddddd00ddddd00ddddd000ddddd0000ddddd0000nnnnn000
+T4: nnnnn000nnnnn00nnnnn00nnnnn00nnnnn000nnnnn0000nnnnn0000ddddd000
+Fitness: -361.0
+  M: 100000
+  time eclipsed: 4805065 ms
+  
